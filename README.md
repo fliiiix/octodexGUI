@@ -4,12 +4,12 @@ octodexGUI
 Ist eine WPF anwendung (braucht .NET 4.0) die alle Bilder von http://octodex.github.com/ nach %TEMP%/octodex herunterlädt,
 um dann immer zufällig eines der Bilder anzuzeigen. Vollbild modus mit F11 ;)
 
-===Rechte der Bilder:===
+###Rechte der Bilder:###
 Legal speak:
 GITHUB®, the GITHUB® logo design, OCTOCAT® and the OCTOCAT® logo design are exclusive trademarks registered in the United States by GitHub, Inc. 
 The OCTOCAT® design is the exclusive property of GitHub, Inc and has been federally registered with the United States Copyright Office. 
 
-
+###Lizenz###
 Copyright (c) 2012, Felix
 All rights reserved.
 
